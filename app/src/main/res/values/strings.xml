@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">recipes apps</string>
+    <string name="hello_chef">Hello, chef!</string>
+    <string name="home_greeting">What do you want to cook today?</string>
+    <string name="recommended">Recommended</string>
+    <string name="categories">Categories</string>
+    <string name="ingredients">Ingredients :</string>
+    <string name="instructions">Instructions :</string>
+    <string name="watch_video">Watch Video</string>
+    <string name="search_recipes">Search a recipe</string>
+</resources>
